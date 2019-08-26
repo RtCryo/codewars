@@ -1,10 +1,13 @@
 package com.codewars;
 
+import java.util.concurrent.ExecutionException;
+
 public class Main {
 
-    public static void main(String[] args) {
+    public static void main(String[] args)  {
 
 
-        System.out.println(ReverseRotate.revRot("733049910872815764", 5));
+        System.out.println(ComplementaryDNA.makeComplement("2"));
+
     }
 }
