@@ -7,7 +7,7 @@ public class Main {
     public static void main(String[] args)  {
 
 
-        System.out.println(StringsMix.mix("my&friend&Paul has heavy hats! &","my friend John has many many friends &"));
+        System.out.println(TwiceLinear.dbl_linear(10));
 
     }
 }
