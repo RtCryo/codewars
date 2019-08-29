@@ -2,18 +2,61 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d299f72-029b-44b3-a9df-f6376ad6f63f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/codewars/TwiceLinear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codewars/PrimesNnumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/codewars/PrimesNnumbersTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codewars/com/codewars/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codewars/com/codewars/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/codewars/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codewars/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/codewars/StringsMix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codewars/StringsMix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewars.iml" beforeDir="false" afterPath="$PROJECT_DIR$/codewars.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codewars/com/codewars/DeleteOccurrencesElementIfOccursMoreNtimes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codewars/com/codewars/DescendingOrder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codewars/com/codewars/DuplicateEncoder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codewars/com/codewars/FindMissingLetter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codewars/com/codewars/GetMiddleCharacter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codewars/com/codewars/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codewars/com/codewars/RegexValidatePINcode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codewars/AreTheySame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codewars/AreTheySame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codewars/ComplementaryDNA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codewars/ComplementaryDNA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codewars/DeleteOccurrencesElementIfOccursMoreNtimes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codewars/DeleteOccurrencesElementIfOccursMoreNtimes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codewars/DescendingOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codewars/DescendingOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codewars/DuplicateEncoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codewars/DuplicateEncoder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codewars/FindMissingLetter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codewars/FindMissingLetter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codewars/GetMiddleCharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codewars/GetMiddleCharacter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codewars/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codewars/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codewars/ProductConsecutiveFibNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codewars/ProductConsecutiveFibNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codewars/RegexValidatePINcode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codewars/RegexValidatePINcode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codewars/ReverseRotate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codewars/ReverseRotate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codewars/SquareEveryDigit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codewars/SquareEveryDigit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codewars/StringsMix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codewars/StringsMix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codewars/SupermarketQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codewars/SupermarketQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codewars/TwiceLinear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codewars/TwiceLinear.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
@@ -21,19 +64,36 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/codewars/TwiceLinear.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/codewars/PrimesNnumbers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="31" column="30" lean-forward="true" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="30" />
+            <state relative-caret-position="119">
+              <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+              <folding>
+                <element signature="e#0#360#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/codewars/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/codewars/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="52" selection-start-line="9" selection-start-column="52" selection-end-line="9" selection-end-column="52" />
+            <state relative-caret-position="119">
+              <caret line="7" column="52" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/codewars/PrimesNnumbersTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="70" selection-start-line="20" selection-start-column="70" selection-end-line="20" selection-end-column="70" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#471#472#0" expanded="true" />
+                <element signature="e#546#547#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -73,8 +133,36 @@
         <option value="$PROJECT_DIR$/src/com/codewars/StringsMix.java" />
         <option value="$PROJECT_DIR$/src/com/codewars/Main.java" />
         <option value="$PROJECT_DIR$/src/com/codewars/TwiceLinear.java" />
+        <option value="$PROJECT_DIR$/src/com/codewars/PrimesNnumbers.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/codewars/PrimesNnumbersTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codewars/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codewars/PrimesNnumbers.java" />
       </list>
     </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="codewars" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="codewars" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
@@ -106,7 +194,47 @@
               <item name="codewars" type="b2602c69:ProjectViewProjectNode" />
               <item name="codewars" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codewars" type="b2602c69:ProjectViewProjectNode" />
               <item name="codewars" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codewars" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codewars" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="codewars" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codewars" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codewars" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codewars" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codewars" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codewars" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codewars" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="codewars" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codewars" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
@@ -121,8 +249,8 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="SDKs" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RunDashboard">
@@ -137,8 +265,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="com.codewars.Main" />
       <module name="codewars" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -148,9 +276,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PrimesNnumbersTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="codewars" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codewars.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.codewars" />
+      <option name="MAIN_CLASS_NAME" value="com.codewars.PrimesNnumbersTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.PrimesNnumbersTest" />
       </list>
     </recent_temporary>
   </component>
@@ -172,7 +315,8 @@
       <workItem from="1566827935812" duration="594000" />
       <workItem from="1566833376142" duration="7000" />
       <workItem from="1566901593552" duration="10404000" />
-      <workItem from="1566977894896" duration="8840000" />
+      <workItem from="1566977894896" duration="8884000" />
+      <workItem from="1567067125725" duration="12388000" />
     </task>
     <task id="LOCAL-00001" summary="up">
       <created>1566675089549</created>
@@ -202,16 +346,56 @@
       <option name="project" value="LOCAL" />
       <updated>1566916318583</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Twice linear (4)">
+      <created>1566989974420</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1566989974420</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="PrimesNnumbersTest - 2019.08.29 at 13h 12m 04s.xml">
+      <configuration name="PrimesNnumbersTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PrimesNnumbersTest - 2019.08.29 at 13h 25m 36s.xml">
+      <configuration name="PrimesNnumbersTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PrimesNnumbersTest - 2019.08.29 at 13h 28m 52s.xml">
+      <configuration name="PrimesNnumbersTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PrimesNnumbersTest - 2019.08.29 at 13h 33m 59s.xml">
+      <configuration name="PrimesNnumbersTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PrimesNnumbersTest - 2019.08.29 at 13h 35m 00s.xml">
+      <configuration name="PrimesNnumbersTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PrimesNnumbersTest - 2019.08.29 at 13h 36m 47s.xml">
+      <configuration name="PrimesNnumbersTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PrimesNnumbersTest - 2019.08.29 at 13h 38m 59s.xml">
+      <configuration name="PrimesNnumbersTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PrimesNnumbersTest - 2019.08.29 at 13h 45m 19s.xml">
+      <configuration name="PrimesNnumbersTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PrimesNnumbersTest - 2019.08.29 at 13h 45m 51s.xml">
+      <configuration name="PrimesNnumbersTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PrimesNnumbersTest - 2019.08.29 at 13h 51m 34s.xml">
+      <configuration name="PrimesNnumbersTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53533000" />
+    <option name="totallyTimeSpent" value="65965000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27444988" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27811736" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -220,7 +404,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32922733" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.4087346" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33706608" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.38633817" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -235,9 +419,9 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Database" order="4" weight="0.3294621" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.17420538" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
@@ -250,17 +434,32 @@
     <MESSAGE value="Are they the &quot;same&quot;?&#10;Product of consecutive Fib numbers&#10;Reverse or rotate?" />
     <MESSAGE value="Square Every Digit&#10;Complementary DNA" />
     <MESSAGE value="4 kyu&#10;Strings Mix" />
-    <option name="LAST_COMMIT_MESSAGE" value="4 kyu&#10;Strings Mix" />
+    <MESSAGE value="Twice linear (4)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Twice linear (4)" />
   </component>
   <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/codewars/PrimesNnumbers.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
         <watch expression="tempLineal.get(10)" />
       </configuration>
     </watches-manager>
   </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/codewars/RegexValidatePINcode.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codewars/RegexValidatePINcode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="23" column="2" selection-start-line="23" selection-end-line="26" selection-end-column="7" />
@@ -270,7 +469,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codewars/FindMissingLetter.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codewars/FindMissingLetter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="23" column="32" lean-forward="true" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
@@ -287,7 +486,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codewars/GetMiddleCharacter.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codewars/GetMiddleCharacter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="595">
           <caret line="35" column="30" lean-forward="true" selection-start-line="35" selection-start-column="30" selection-end-line="35" selection-end-column="30" />
@@ -322,14 +521,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codewars/ProductConsecutiveFibNumbers.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codewars/ProductConsecutiveFibNumbers.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="50" column="25" lean-forward="true" selection-start-line="50" selection-start-column="25" selection-end-line="50" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codewars/ReverseRotate.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codewars/ReverseRotate.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
           <caret line="75" column="27" selection-start-line="75" selection-start-column="27" selection-end-line="75" selection-end-column="27" />
@@ -339,7 +538,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codewars/DescendingOrder.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codewars/DescendingOrder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="18" column="43" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
@@ -370,7 +569,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codewars/SquareEveryDigit.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codewars/SquareEveryDigit.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
           <caret line="13" selection-start-line="13" selection-end-line="23" selection-end-column="5" />
@@ -381,7 +580,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codewars/SupermarketQueue.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codewars/SupermarketQueue.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
           <caret line="59" column="17" selection-start-line="59" selection-start-column="17" selection-end-line="59" selection-end-column="17" />
@@ -391,21 +590,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codewars/ComplementaryDNA.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codewars/ComplementaryDNA.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codewars/DeleteOccurrencesElementIfOccursMoreNtimes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-85">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-          <folding>
-            <element signature="e#0#2479#0" expanded="true" />
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -416,7 +604,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codewars/AreTheySame.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codewars/AreTheySame.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="37" column="13" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
@@ -430,7 +618,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codewars/DuplicateEncoder.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codewars/DuplicateEncoder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
@@ -458,14 +646,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codewars/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="52" selection-start-line="9" selection-start-column="52" selection-end-line="9" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codewars/StringsMix.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codewars/StringsMix.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-833">
           <caret line="44" column="53" lean-forward="true" selection-start-line="44" selection-start-column="53" selection-end-line="44" selection-end-column="53" />
@@ -475,10 +656,99 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codewars/TwiceLinear.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codewars/TwiceLinear.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="31" column="30" lean-forward="true" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="30" />
+          <caret line="31" column="30" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-api/5.5.1/junit-jupiter-api-5.5.1.jar!/org/junit/jupiter/api/AssertEquals.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="17" column="48" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/junit/framework/Assert.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="5" column="24" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/junit/framework/Assert.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-api/5.5.1/junit-jupiter-api-5.5.1-sources.jar!/org/junit/jupiter/api/AssertEquals.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="25" column="18" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-api/5.5.1/junit-jupiter-api-5.5.1-sources.jar!/org/junit/jupiter/api/Assertions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="73" column="13" selection-start-line="73" selection-start-column="13" selection-end-line="73" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;class#Assertions#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codewars/DeleteOccurrencesElementIfOccursMoreNtimes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="27" column="13" lean-forward="true" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#2479#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-api/5.5.1/junit-jupiter-api-5.5.1-sources.jar!/org/junit/jupiter/api/Timeout.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="93" column="18" selection-start-line="93" selection-start-column="18" selection-end-line="93" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/codewars/PrimesNnumbersTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="70" selection-start-line="20" selection-start-column="70" selection-end-line="20" selection-end-column="70" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#471#472#0" expanded="true" />
+            <element signature="e#546#547#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codewars/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="52" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codewars/PrimesNnumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#360#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
