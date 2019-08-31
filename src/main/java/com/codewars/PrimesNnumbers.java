@@ -23,11 +23,11 @@ public class PrimesNnumbers {
                     k += 1;
                     number /= z;
                 }
-                result.append("(" + z + (k > 1 ? "**" + k : "") + ")");
+                result.append("(").append(z).append(k > 1 ? "**" + k : "").append(")");
             }
             z = nextPrime(z);
             if(z *z > number) {
-                result.append("(" + number + ")");
+                result.append("(").append(number).append(")");
                 break;
             }
         }

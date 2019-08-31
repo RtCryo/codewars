@@ -4,8 +4,7 @@ public class Main {
 
     public static void main(String[] args)  {
 
-
-        System.out.println(PrimesNnumbers.factors(86240));
+        System.out.println(NextBiggerNumber.nextBiggerNumber(21581957621L));
 
     }
 }

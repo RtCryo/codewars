@@ -16,7 +16,7 @@ public class PrimesNnumbersTest {
     }
 
     @Test
-    @Timeout(value = 16000, unit = MILLISECONDS)
+    @Timeout(value = 16, unit = MILLISECONDS)
     public void testFactorsTime(){
         assertEquals(PrimesNnumbers.factors(933555431),"(7537)(123863)");
     }
