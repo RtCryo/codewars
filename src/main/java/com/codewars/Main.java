@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args)  {
 
-        System.out.println(Greed.greedy(new int[]{5,1,3,4,1}));
+        System.out.println(BreadcrumbGenerator.generate_bc("www.agcpartners.co.uk/", " + "));
 
     }
 }
