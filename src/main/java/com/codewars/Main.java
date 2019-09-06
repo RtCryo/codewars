@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args)  {
 
-        System.out.println(SumSquaredDivisors.listSquared(1,250));
+        System.out.println(CarMileage.isInteresting(101, new int[]{}));
 
     }
 }
