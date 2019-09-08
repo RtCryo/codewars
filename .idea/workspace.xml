@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d299f72-029b-44b3-a9df-f6376ad6f63f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codewars/SumOfSquares.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/codewars/SumOfSquaresTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codewars/TimeFormatter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/codewars/TimeFormatterTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/codewars/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codewars/Main.java" afterDir="false" />
     </list>
@@ -35,22 +35,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/codewars/SumOfSquares.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/codewars/TimeFormatter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="32" column="87" selection-start-line="32" selection-start-column="87" selection-end-line="32" selection-end-column="87" />
-              <folding>
-                <element signature="e#0#1255#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="493">
+              <caret line="66" column="25" lean-forward="true" selection-start-line="66" selection-start-column="25" selection-end-line="66" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/codewars/SumOfSquaresTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/codewars/TimeFormatterTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="187">
+              <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -62,7 +59,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/codewars/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
-              <caret line="6" column="54" selection-start-line="6" selection-start-column="54" selection-end-line="6" selection-end-column="54" />
+              <caret line="6" column="58" selection-start-line="6" selection-start-column="58" selection-end-line="6" selection-end-column="58" />
             </state>
           </provider>
         </entry>
@@ -123,8 +120,10 @@
         <option value="$PROJECT_DIR$/src/test/java/com/codewars/CarMileageTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/codewars/CarMileage.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/codewars/SumOfSquaresTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/codewars/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/codewars/SumOfSquares.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/codewars/TimeFormatterTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codewars/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codewars/TimeFormatter.java" />
       </list>
     </option>
   </component>
@@ -165,7 +164,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -228,7 +227,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -276,21 +275,6 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.codewars" />
       <option name="MAIN_CLASS_NAME" value="com.codewars.CarMileageTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PerfectPowerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="codewars" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.codewars.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.codewars" />
-      <option name="MAIN_CLASS_NAME" value="com.codewars.PerfectPowerTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -356,13 +340,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TimeFormatterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="codewars" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codewars.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.codewars" />
+      <option name="MAIN_CLASS_NAME" value="com.codewars.TimeFormatterTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TimeFormatterTest" />
         <item itemvalue="JUnit.SumOfSquaresTest" />
         <item itemvalue="JUnit.CarMileageTest" />
         <item itemvalue="JUnit.SumSquaredDivisorsTest" />
         <item itemvalue="JUnit.SecretDetectiveTest" />
-        <item itemvalue="JUnit.PerfectPowerTest" />
       </list>
     </recent_temporary>
   </component>
@@ -401,6 +400,8 @@
       <workItem from="1567586967987" duration="4335000" />
       <workItem from="1567671197736" duration="12522000" />
       <workItem from="1567760835871" duration="5327000" />
+      <workItem from="1567871038275" duration="201000" />
+      <workItem from="1567931892160" duration="5679000" />
     </task>
     <task id="LOCAL-00001" summary="up">
       <created>1566675089549</created>
@@ -493,22 +494,17 @@
       <option name="project" value="LOCAL" />
       <updated>1567763002193</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Sums of Perfect Squares(4)">
+      <created>1567871109264</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1567871109264</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SecretDetectiveTest - 2019.09.03 at 15h 55m 21s.xml">
-      <configuration name="SecretDetectiveTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SecretDetectiveTest - 2019.09.03 at 16h 15m 18s.xml">
-      <configuration name="SecretDetectiveTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SumSquaredDivisorsTest - 2019.09.04 at 12h 31m 29s.xml">
-      <configuration name="SumSquaredDivisorsTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SumSquaredDivisorsTest - 2019.09.04 at 12h 31m 46s.xml">
-      <configuration name="SumSquaredDivisorsTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="CarMileageTest - 2019.09.05 at 14h 13m 55s.xml">
       <configuration name="CarMileageTest" configurationId="JUnit" />
     </history-entry>
@@ -527,15 +523,27 @@
     <history-entry file="SumOfSquaresTest - 2019.09.06 at 11h 57m 35s.xml">
       <configuration name="SumOfSquaresTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="TimeFormatterTest - 2019.09.08 at 12h 08m 32s.xml">
+      <configuration name="TimeFormatterTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TimeFormatterTest - 2019.09.08 at 12h 09m 44s.xml">
+      <configuration name="TimeFormatterTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TimeFormatterTest - 2019.09.08 at 12h 26m 17s.xml">
+      <configuration name="TimeFormatterTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TimeFormatterTest - 2019.09.08 at 12h 26m 43s.xml">
+      <configuration name="TimeFormatterTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="150769000" />
+    <option name="totallyTimeSpent" value="156649000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4994401" visible="true" weight="0.20660147" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4994401" visible="true" weight="0.21149144" />
       <window_info id="Structure" order="1" sideWeight="0.5005599" side_tool="true" weight="0.2616137" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -544,7 +552,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32922733" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2967525" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2967525" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.38633817" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -614,7 +622,8 @@
     <MESSAGE value="Recover a secret string from random triplets(4)" />
     <MESSAGE value="Integers: Recreation One(5)" />
     <MESSAGE value="Catching Car Mileage Numbers(4)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Catching Car Mileage Numbers(4)" />
+    <MESSAGE value="Sums of Perfect Squares(4)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sums of Perfect Squares(4)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -632,20 +641,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_201/src.zip!/java/lang/Math.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="1147" column="37" selection-start-line="1147" selection-start-column="34" selection-end-line="1147" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_201/src.zip!/java/util/stream/IntStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="678" column="13" lean-forward="true" selection-start-line="678" selection-start-column="13" selection-end-line="678" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_201/src.zip!/java/util/Queue.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -1057,20 +1052,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/codewars/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codewars/SumOfSquares.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="54" selection-start-line="6" selection-start-column="54" selection-end-line="6" selection-end-column="54" />
+        <state relative-caret-position="357">
+          <caret line="32" column="87" selection-start-line="32" selection-start-column="87" selection-end-line="32" selection-end-column="87" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/codewars/SumOfSquares.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codewars/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="32" column="87" selection-start-line="32" selection-start-column="87" selection-end-line="32" selection-end-column="87" />
+        <state relative-caret-position="102">
+          <caret line="6" column="58" selection-start-line="6" selection-start-column="58" selection-end-line="6" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/codewars/TimeFormatterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
           <folding>
-            <element signature="e#0#1255#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codewars/TimeFormatter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="66" column="25" lean-forward="true" selection-start-line="66" selection-start-column="25" selection-end-line="66" selection-end-column="25" />
         </state>
       </provider>
     </entry>
