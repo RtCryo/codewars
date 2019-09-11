@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d299f72-029b-44b3-a9df-f6376ad6f63f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codewars/Snail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/codewars/SnailTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/codewars/SudokuValidatorTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/codewars/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codewars/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -35,32 +33,22 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/codewars/JomoPipi.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/codewars/SudokuValidator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="78" column="19" selection-start-line="78" selection-start-column="19" selection-end-line="78" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/codewars/Snail.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="262">
-              <caret line="60" column="48" selection-start-line="60" selection-start-column="48" selection-end-line="60" selection-end-column="48" />
+            <state relative-caret-position="493">
+              <caret line="60" column="29" lean-forward="true" selection-start-line="60" selection-start-column="29" selection-end-line="60" selection-end-column="29" />
               <folding>
-                <element signature="e#0#500#0" expanded="true" />
                 <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/codewars/SnailTest.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/codewars/SudokuValidatorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+            <state relative-caret-position="272">
+              <caret line="16" column="44" lean-forward="true" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -71,8 +59,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/codewars/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+            <state relative-caret-position="238">
+              <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -139,8 +127,10 @@
         <option value="$PROJECT_DIR$/src/test/java/com/codewars/JomoPipiTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/codewars/JomoPipi.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/codewars/SnailTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/codewars/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/codewars/Snail.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/codewars/SudokuValidatorTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codewars/SudokuValidator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codewars/Main.java" />
       </list>
     </option>
   </component>
@@ -181,7 +171,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -244,6 +233,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -271,28 +261,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.SnailTest">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="com.codewars.Main" />
       <module name="codewars" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CarMileageTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="codewars" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.codewars.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.codewars" />
-      <option name="MAIN_CLASS_NAME" value="com.codewars.CarMileageTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -342,6 +317,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SudokuValidatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="codewars" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codewars.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.codewars" />
+      <option name="MAIN_CLASS_NAME" value="com.codewars.SudokuValidatorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SumOfSquaresTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="codewars" />
       <extension name="coverage">
@@ -374,11 +364,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SudokuValidatorTest" />
         <item itemvalue="JUnit.SnailTest" />
         <item itemvalue="JUnit.JomoPipiTest" />
         <item itemvalue="JUnit.TimeFormatterTest" />
         <item itemvalue="JUnit.SumOfSquaresTest" />
-        <item itemvalue="JUnit.CarMileageTest" />
       </list>
     </recent_temporary>
   </component>
@@ -420,7 +410,8 @@
       <workItem from="1567871038275" duration="201000" />
       <workItem from="1567931892160" duration="6735000" />
       <workItem from="1568023314342" duration="7173000" />
-      <workItem from="1568106681847" duration="4184000" />
+      <workItem from="1568106681847" duration="4720000" />
+      <workItem from="1568190071565" duration="5758000" />
     </task>
     <task id="LOCAL-00001" summary="up">
       <created>1566675089549</created>
@@ -534,49 +525,63 @@
       <option name="project" value="LOCAL" />
       <updated>1568031068137</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Snail Sort(4)">
+      <created>1568111119305</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1568111119305</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Sudoku Solution Validator(4)">
+      <created>1568195788306</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1568195788306</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="JomoPipiTest - 2019.09.09 at 13h 23m 10s.xml">
-      <configuration name="JomoPipiTest" configurationId="JUnit" />
+    <history-entry file="SudokuValidatorTest - 2019.09.11 at 10h 54m 31s.xml">
+      <configuration name="SudokuValidatorTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="JomoPipiTest - 2019.09.09 at 13h 33m 28s.xml">
-      <configuration name="JomoPipiTest" configurationId="JUnit" />
+    <history-entry file="SudokuValidatorTest - 2019.09.11 at 10h 57m 34s.xml">
+      <configuration name="SudokuValidatorTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="JomoPipiTest - 2019.09.09 at 13h 33m 33s.xml">
-      <configuration name="JomoPipiTest" configurationId="JUnit" />
+    <history-entry file="SudokuValidatorTest - 2019.09.11 at 11h 10m 40s.xml">
+      <configuration name="SudokuValidatorTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="JomoPipiTest - 2019.09.09 at 13h 33m 36s.xml">
-      <configuration name="JomoPipiTest" configurationId="JUnit" />
+    <history-entry file="SudokuValidatorTest - 2019.09.11 at 11h 12m 14s.xml">
+      <configuration name="SudokuValidatorTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="JomoPipiTest - 2019.09.09 at 13h 41m 40s.xml">
-      <configuration name="JomoPipiTest" configurationId="JUnit" />
+    <history-entry file="SudokuValidatorTest - 2019.09.11 at 11h 12m 31s.xml">
+      <configuration name="SudokuValidatorTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="JomoPipiTest - 2019.09.09 at 13h 50m 26s.xml">
-      <configuration name="JomoPipiTest" configurationId="JUnit" />
+    <history-entry file="SudokuValidatorTest - 2019.09.11 at 11h 16m 01s.xml">
+      <configuration name="SudokuValidatorTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="JomoPipiTest - 2019.09.09 at 13h 51m 15s.xml">
-      <configuration name="JomoPipiTest" configurationId="JUnit" />
+    <history-entry file="SudokuValidatorTest - 2019.09.11 at 11h 20m 03s.xml">
+      <configuration name="SudokuValidatorTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="JomoPipiTest - 2019.09.09 at 13h 51m 19s.xml">
-      <configuration name="JomoPipiTest" configurationId="JUnit" />
+    <history-entry file="SudokuValidatorTest - 2019.09.11 at 11h 22m 53s.xml">
+      <configuration name="SudokuValidatorTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SnailTest - 2019.09.10 at 12h 20m 12s.xml">
-      <configuration name="SnailTest" configurationId="JUnit" />
+    <history-entry file="SudokuValidatorTest - 2019.09.11 at 11h 52m 54s.xml">
+      <configuration name="SudokuValidatorTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SnailTest - 2019.09.10 at 12h 21m 58s.xml">
-      <configuration name="SnailTest" configurationId="JUnit" />
+    <history-entry file="SudokuValidatorTest - 2019.09.11 at 11h 53m 54s.xml">
+      <configuration name="SudokuValidatorTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="169062000" />
+    <option name="totallyTimeSpent" value="175356000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4994401" visible="true" weight="0.21638142" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4994401" visible="true" weight="0.21882641" />
       <window_info id="Structure" order="1" sideWeight="0.5005599" side_tool="true" weight="0.2616137" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -585,8 +590,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32922733" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2967525" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.38633817" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2967525" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.38633817" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -658,7 +663,9 @@
     <MESSAGE value="Sums of Perfect Squares(4)" />
     <MESSAGE value="Human readable duration format(4)" />
     <MESSAGE value="String -&gt; X-Iterations -&gt; String" />
-    <option name="LAST_COMMIT_MESSAGE" value="String -&gt; X-Iterations -&gt; String" />
+    <MESSAGE value="Snail Sort(4)" />
+    <MESSAGE value="Sudoku Solution Validator(4)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sudoku Solution Validator(4)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -668,12 +675,6 @@
           <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/codewars/Snail.java</url>
-          <line>65</line>
-          <properties />
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -682,20 +683,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_201/src.zip!/java/util/Comparator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="149" column="8" selection-start-line="149" selection-start-column="8" selection-end-line="149" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-api/5.5.1/junit-jupiter-api-5.5.1.jar!/org/junit/jupiter/api/AssertEquals.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="17" column="48" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/junit/framework/Assert.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -1095,17 +1082,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/codewars/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codewars/JomoPipi.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        <state relative-caret-position="629">
+          <caret line="78" column="19" selection-start-line="78" selection-start-column="19" selection-end-line="78" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/codewars/JomoPipi.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codewars/Snail.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="78" column="19" selection-start-line="78" selection-start-column="19" selection-end-line="78" selection-end-column="19" />
+        <state relative-caret-position="952">
+          <caret line="70" column="20" selection-start-line="70" selection-start-column="20" selection-end-line="70" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1119,12 +1109,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/codewars/Snail.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codewars/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="60" column="48" selection-start-line="60" selection-start-column="48" selection-end-line="60" selection-end-column="48" />
+        <state relative-caret-position="238">
+          <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codewars/SudokuValidator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="60" column="29" lean-forward="true" selection-start-line="60" selection-start-column="29" selection-end-line="60" selection-end-column="29" />
           <folding>
-            <element signature="e#0#500#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/codewars/SudokuValidatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="44" lean-forward="true" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
+          <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
